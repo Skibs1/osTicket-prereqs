@@ -4,7 +4,7 @@
 
 <h1>osTicket - Prerequisites and Installation</h1>
 
-<h2>Description</h2> consists of pictures and breif explaining. How to install IIS(Internet Information Services), PHP, web platform Installer, C++ Redistributal , My SQL and implement a user name and password configure permissions and install osTicket.
+<h2>Description</h2> consists of pictures and brief explaining. How to install IIS(Internet Information Services), PHP, web platform Installer, C++ Redistributal , My SQL and implement a user name and password configure permissions and install osTicket.
 
 <h2>Environments and Technologies Used</h2>
 
